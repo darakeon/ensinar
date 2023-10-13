@@ -1,3 +1,10 @@
+# Projeto para ensinar programação a pessoas
+
+O conteúdo deste repositório está sendo criado com a ajuda do [ChatGPT](https://chat.openai.com/). Se um robô aprendeu a falar com humanos, talvez ele consiga me ajudar a aprender isso.
+
+
+## Dicas do bot
+
 Ensinar programação para iniciantes pode ser uma experiência gratificante. Aqui estão algumas dicas para ajudá-lo a ensinar programação de forma eficaz a pessoas que não têm experiência na área:
 
 ### 1. **Comece com Conceitos Básicos:**
