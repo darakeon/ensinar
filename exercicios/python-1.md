@@ -2,9 +2,14 @@ Este exercício envolve a criação de um programa Python que calcula a média d
 
 ```python
 # Solicita ao usuário para inserir três números
-numero1 = float(input("Digite o primeiro número: "))
-numero2 = float(input("Digite o segundo número: "))
-numero3 = float(input("Digite o terceiro número: "))
+input1 = input("Digite o primeiro número: ")
+input2 = input("Digite o segundo número: ")
+input3 = input("Digite o terceiro número: ")
+
+# Transforma os inputs em números 
+numero1 = float(input1)
+numero2 = float(input2)
+numero3 = float(input3)
 
 # Calcula a média dos três números
 media = (numero1 + numero2 + numero3) / 3
