@@ -22,7 +22,7 @@ Em programação, os tipos de dados são como diferentes formas de informações
 
 5. **Lista:**
    - **Explicação:** Uma lista é uma coleção de itens. Os itens podem ser de diferentes tipos, como texto, números ou outros tipos de dados.
-   - **Exemplo 1:** `[3, 1, 4, 1, 5, 9]`
+   - **Exemplo 1:** `[3, 7, 4, 1, 5, 9]`
    - **Exemplo 2:** `['Luffy', 'Zoro', 'Nami', 'Usopp', 'Sanji']`
 
 6. **Dicionário:**
