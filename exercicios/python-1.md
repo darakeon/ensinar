@@ -1,4 +1,4 @@
-Exemplo simples de um exercício de código para iniciantes em programação. Este exercício envolve a criação de um programa Python que calcula a média de três números digitados pelo usuário:
+Este exercício envolve a criação de um programa Python que calcula a média de três números digitados pelo usuário:
 
 ```python
 # Solicita ao usuário para inserir três números
