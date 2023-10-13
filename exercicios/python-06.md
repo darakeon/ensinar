@@ -11,6 +11,4 @@ for i in numeros:
 print("Lista com quadrados dos números:", quadrados)
 ```
 
-Neste exemplo, o loop `for` gera uma sequência de números de 1 a 5 e adiciona o quadrado de cada número à lista `quadrados`.
-
-Espero que esses exemplos ajudem a entender como o loop `for` pode ser utilizado em situações práticas!
+Neste exemplo, é gerada gera uma sequência de números de 1 a 5 e o loop `for` adiciona o quadrado de cada número à lista `quadrados`.

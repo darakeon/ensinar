@@ -7,9 +7,10 @@ Operadores em programação são símbolos especiais que realizam operações em
 - **`+` (Adição):** Soma dois valores. Exemplo: `3 + 5` resulta em `8`.
 - **`-` (Subtração):** Subtrai um valor do outro. Exemplo: `7 - 2` resulta em `5`.
 - **`*` (Multiplicação):** Multiplica dois valores. Exemplo: `4 * 6` resulta em `24`.
-- **`/` (Divisão):** Divide um valor pelo outro. Exemplo: `10 / 2` resulta em `5`.
-- **`%` (Módulo):** Retorna o resto da divisão. Exemplo: `10 % 3` resulta em `1`.
 - **`**` (Potenciação):** Calcula a potência. Exemplo: `3 ** 2` resulta em `9`.
+- **`/` (Divisão):** Divide um valor pelo outro. Exemplo: `10 / 2` resulta em `5`.
+- **`//` (Divisão somente inteiros):** Divide um valor pelo outro porém retorna apenas o valor inteiro. Exemplo: `3 // 2` resulta em `1`.
+- **`%` (Módulo):** Retorna o resto da divisão. Exemplo: `10 % 3` resulta em `1`.
 
 ### 2. **Operadores de Comparação:**
 
