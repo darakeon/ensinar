@@ -10,3 +10,5 @@ print("Olá, " + nome + "!")
 ```
 
 Neste exemplo, `input()` pede o seu nome, você escreve o seu nome e o programa responde com "Olá, [seu nome]!" O que você escreveu é armazenado na variável `nome` para que o programa possa usá-lo depois.
+
+A função input sempre irá retornar o tipo de dados string.
